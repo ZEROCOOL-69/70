@@ -99,8 +99,6 @@ double expression();    // declaration so that primary() can call expression()
 
 //------------------------------------------------------------------------------
 
-//------------------------------------------------------------------------------
-
 Token get_token()    // read a token from cin
 {
 	char ch;
